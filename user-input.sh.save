@@ -1,0 +1,7 @@
+!/bin/bash
+Name = input("Cual es tu nombre? ")
+lastName = input("Cual es tu apellido? ")
+location1 = input("En que instituto estudias? ")
+location2 = input("tu sede de estudio? ")
+section = input("numeracion de tu ramo cursado")
+print("Hola " + firstName, lastName + "! Eres estudiante de "+ locatioXn1 +" de la sede "+ location2 +" del ramo" + section + " bienvenido.")
